@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+bar bar bar
+=======
+foobar foobar foobar
+>>>>>>> master
